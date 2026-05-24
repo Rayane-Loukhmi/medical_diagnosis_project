@@ -1,0 +1,5 @@
+{
+  "graph": "app.graph:build_graph",
+  "dependencies": ["."],
+  "env": ".env"
+}
